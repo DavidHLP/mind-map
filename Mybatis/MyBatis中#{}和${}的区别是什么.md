@@ -1,3 +1,8 @@
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
 # MyBatis 中 #{} 和 ${} 的区别
 
 ## #{} (PreparedStatement 占位符)

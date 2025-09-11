@@ -1,3 +1,8 @@
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
 # MySQL 的索引类型
 
 ## 按数据结构分类

@@ -1,3 +1,8 @@
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
 # MyBatis 一对一、一对多关联查询
 
 ## 实现方式

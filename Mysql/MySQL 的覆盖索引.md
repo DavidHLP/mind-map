@@ -1,3 +1,8 @@
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
 # MySQL 的覆盖索引
 
 ## 是什么

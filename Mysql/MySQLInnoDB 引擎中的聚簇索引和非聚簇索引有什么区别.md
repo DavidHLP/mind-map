@@ -1,3 +1,8 @@
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
 # MySQL InnoDB 聚簇索引 vs 非聚簇索引
 
 ## 1. 聚簇索引（Clustered Index）

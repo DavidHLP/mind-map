@@ -1,3 +1,8 @@
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
 # MyBatis 与 Hibernate 的区别
 
 ## Hibernate

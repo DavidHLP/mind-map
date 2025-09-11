@@ -1,3 +1,8 @@
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
 # MySQL 建索引注意事项
 
 ## 1. 建索引的原则

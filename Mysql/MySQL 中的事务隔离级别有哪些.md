@@ -1,3 +1,8 @@
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
 # MySQL 中的事务隔离级别
 
 ## 读未提交 (READ UNCOMMITTED)

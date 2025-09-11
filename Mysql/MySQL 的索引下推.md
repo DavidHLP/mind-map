@@ -1,3 +1,8 @@
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
 # MySQL 的索引下推（Index Condition Pushdown, ICP）
 
 ## 是什么

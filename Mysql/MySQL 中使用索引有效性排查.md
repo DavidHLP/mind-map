@@ -1,3 +1,8 @@
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
 # MySQL 中使用索引有效性排查
 
 ## 1. 索引不一定有效

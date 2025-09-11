@@ -1,3 +1,8 @@
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
 # MyBatis 动态 SQL
 
 ## 有什么用

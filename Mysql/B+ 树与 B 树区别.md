@@ -1,3 +1,8 @@
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
 # B+ 树与 B 树区别
 
 ## 节点存储差异及影响

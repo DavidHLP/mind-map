@@ -1,3 +1,8 @@
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
 # MyBatis 延迟加载（Lazy Loading）
 
 ## 1. 概述

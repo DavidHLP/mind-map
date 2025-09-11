@@ -1,3 +1,8 @@
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
 # 为什么 MySQL 选择使用 B+ 树作为索引结构
 
 ## 1. 高效的查找性能

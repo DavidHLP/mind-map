@@ -1,3 +1,8 @@
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
 # MyBatis 写 XML 映射文件 + DAO 接口执行原理
 
 ## 核心原理

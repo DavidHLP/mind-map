@@ -1,3 +1,8 @@
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
 # 使用 MyBatis 的 Mapper 接口调用要求
 
 ## 方法名与 id 一致

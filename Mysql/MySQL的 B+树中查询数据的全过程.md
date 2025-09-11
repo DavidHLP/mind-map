@@ -1,3 +1,8 @@
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
 # MySQL B+ 树查询数据全过程
 
 ## 1. 从根节点开始查找

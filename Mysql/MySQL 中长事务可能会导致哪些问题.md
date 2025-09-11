@@ -1,3 +1,8 @@
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
 # MySQL 中长事务可能导致的问题
 
 ## 1. 长时间锁竞争，阻塞资源

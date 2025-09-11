@@ -1,3 +1,8 @@
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
 # MySQL 中的数据排序
 
 ## 1. 索引排序（Index Sort）

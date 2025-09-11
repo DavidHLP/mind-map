@@ -1,3 +1,8 @@
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
 # MySQL 联合索引最左前缀匹配原则
 
 ## 1. 底层原理

@@ -1,3 +1,8 @@
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
 # MySQL 默认事务隔离级别及 binlog 影响
 
 ## 默认隔离级别
