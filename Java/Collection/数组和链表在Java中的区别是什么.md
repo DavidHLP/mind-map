@@ -1,4 +1,9 @@
-# 数组 vs 链表
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
+# 数组 vs 链表数组和链表在Java中的区别是什么
 
 ## 回答重点
 
