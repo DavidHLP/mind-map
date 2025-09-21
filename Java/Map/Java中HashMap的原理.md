@@ -1,3 +1,8 @@
+---
+markmap:
+  colorFreezeLevel: 2
+---
+
 # Java 中 HashMap 的原理
 
 ## 基本概念
